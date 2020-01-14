@@ -1,0 +1,142 @@
+# depslib dependency file v1.0
+1542609681 source:f:\ocln\ocln\fastcommunityfinder.cpp
+	"fastCommunityFinder.h"
+	<numeric>
+	<algorithm>
+
+1481854432 f:\ocln\ocln\fastcommunityfinder.h
+	"Graph.h"
+
+1543373353 f:\ocln\ocln\graph.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<utility>
+	<set>
+	<map>
+	<math.h>
+	<algorithm>
+
+1480772740 source:f:\ocln\ocln\fastcommunityfunction.cpp
+	<iostream>
+	<set>
+	"Graph.h"
+	"fastCommunityFinder.h"
+
+1480772740 source:f:\ocln\ocln\graph.cpp
+	"Graph.h"
+
+1543647085 source:f:\ocln\ocln\main.cpp
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<ctime>
+	<string>
+	<vector>
+	<set>
+	<list>
+	<utility>
+	<algorithm>
+	<math.h>
+	<numeric>
+	<string>
+	"Graph.h"
+	"MeasureFunction.h"
+	"fastCommunityFinder.h"
+	"betweenness.h"
+
+1543562483 f:\ocln\ocln\measurefunction.h
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<ctime>
+	<string>
+	<vector>
+	<set>
+	<list>
+	<utility>
+	<algorithm>
+	<math.h>
+	<numeric>
+	<string>
+	<iterator>
+
+1543562606 f:\ocln\ocln\betweenness.h
+	<list>
+	<numeric>
+	<algorithm>
+	"Graph.h"
+	<iostream>
+	<vector>
+	<set>
+	<queue>
+
+1542609681 source:f:\ocln\ocln\oclnco\fastcommunityfinder.cpp
+	"fastCommunityFinder.h"
+	<numeric>
+	<algorithm>
+
+1481854432 f:\ocln\ocln\oclnco\fastcommunityfinder.h
+	"Graph.h"
+
+1543373353 f:\ocln\ocln\oclnco\graph.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<utility>
+	<set>
+	<map>
+	<math.h>
+	<algorithm>
+
+1480772740 source:f:\ocln\ocln\oclnco\fastcommunityfunction.cpp
+	<iostream>
+	<set>
+	"Graph.h"
+	"fastCommunityFinder.h"
+
+1480772740 source:f:\ocln\ocln\oclnco\graph.cpp
+	"Graph.h"
+
+1575351087 source:f:\ocln\ocln\oclnco\main.cpp
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<ctime>
+	<string>
+	<vector>
+	<set>
+	<list>
+	<utility>
+	<algorithm>
+	<math.h>
+	<numeric>
+	<string>
+	"Graph.h"
+	"MeasureFunction.h"
+	"fastCommunityFinder.h"
+
+1543562483 f:\ocln\ocln\oclnco\measurefunction.h
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<ctime>
+	<string>
+	<vector>
+	<set>
+	<list>
+	<utility>
+	<algorithm>
+	<math.h>
+	<numeric>
+	<string>
+	<iterator>
+
